@@ -1,0 +1,10 @@
+Student_ID,Age,Study_Hours,Attendance_Percent,Department,Passed
+101,18.0,2.0,80.0,CSE,Yes
+102,19.0,3.5,90.0,IT,Yes
+103,,1.0,65.0,CSE,No
+104,20.0,,70.0,ECE,No
+105,18.0,4.0,,IT,Yes
+106,21.0,5.0,95.0,CSE,Yes
+107,19.0,2.5,85.0,ECE,No
+108,20.0,3.0,88.0,,Yes
+108,20.0,3.0,88.0,,Yes
